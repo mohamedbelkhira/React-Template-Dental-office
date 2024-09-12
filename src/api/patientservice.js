@@ -1,3 +1,5 @@
+//this is the new service just rearange it
+
 import { firestore } from '../firebase'; // Firestore initialization from firebase.js
 import { collection, addDoc, query, where, getDocs } from 'firebase/firestore'; // Modular Firestore imports
 
